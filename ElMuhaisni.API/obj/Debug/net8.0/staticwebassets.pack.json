@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Projects\\ElMuhaisni.API\\ElMuhaisni.API\\wwwroot\\Images\\9b70cb3c-46c4-4715-8b4e-39ac07708c18.jpg",
+      "PackagePath": "staticwebassets\\Images\\9b70cb3c-46c4-4715-8b4e-39ac07708c18.jpg"
+    },
+    {
+      "Id": "D:\\My Projects\\ElMuhaisni.API\\ElMuhaisni.API\\wwwroot\\Images\\c6a5cdcd-3c53-46a7-88c9-51aa83e15cf8.jpg",
+      "PackagePath": "staticwebassets\\Images\\c6a5cdcd-3c53-46a7-88c9-51aa83e15cf8.jpg"
+    },
+    {
+      "Id": "D:\\My Projects\\ElMuhaisni.API\\ElMuhaisni.API\\wwwroot\\Images\\d384473c-db47-48f0-8566-feaf67be5294.jpg",
+      "PackagePath": "staticwebassets\\Images\\d384473c-db47-48f0-8566-feaf67be5294.jpg"
+    },
+    {
+      "Id": "D:\\My Projects\\ElMuhaisni.API\\ElMuhaisni.API\\wwwroot\\Images\\d84359d2-a4f2-4048-86f4-eb75c8b7b4ee.jpg",
+      "PackagePath": "staticwebassets\\Images\\d84359d2-a4f2-4048-86f4-eb75c8b7b4ee.jpg"
+    },
+    {
+      "Id": "D:\\My Projects\\ElMuhaisni.API\\ElMuhaisni.API\\wwwroot\\Images\\f81b4771-b89f-4674-a4d1-3e003f0c15b3.jpg",
+      "PackagePath": "staticwebassets\\Images\\f81b4771-b89f-4674-a4d1-3e003f0c15b3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ElMuhaisni.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ElMuhaisni.API.props",
+      "PackagePath": "build\\ElMuhaisni.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ElMuhaisni.API.props",
+      "PackagePath": "buildMultiTargeting\\ElMuhaisni.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ElMuhaisni.API.props",
+      "PackagePath": "buildTransitive\\ElMuhaisni.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

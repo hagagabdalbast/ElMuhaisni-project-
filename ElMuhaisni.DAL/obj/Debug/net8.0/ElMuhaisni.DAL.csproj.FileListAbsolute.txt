@@ -1,0 +1,14 @@
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\bin\Debug\net8.0\ElMuhaisni.DAL.deps.json
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\bin\Debug\net8.0\ElMuhaisni.DAL.runtimeconfig.json
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\bin\Debug\net8.0\ElMuhaisni.DAL.dll
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\bin\Debug\net8.0\ElMuhaisni.DAL.pdb
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\ElMuhaisni.DAL.csproj.AssemblyReference.cache
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\ElMuhaisni.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\ElMuhaisni.DAL.AssemblyInfoInputs.cache
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\ElMuhaisni.DAL.AssemblyInfo.cs
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\ElMuhaisni.DAL.csproj.CoreCompileInputs.cache
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\ElMuhaisni.DAL.dll
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\refint\ElMuhaisni.DAL.dll
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\ElMuhaisni.DAL.pdb
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\ElMuhaisni.DAL.genruntimeconfig.cache
+D:\My Projects\ElMuhaisni.API\ElMuhaisni.DAL\obj\Debug\net8.0\ref\ElMuhaisni.DAL.dll
